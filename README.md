@@ -14,3 +14,5 @@ Beam search works as a modified forward search, where within the calculating of 
 The output shows the accuracy of all considered combination of features and how each algorithm progressed through the sets of features to arrive at it's answer.
 
 ## Output
+![nnforsear](https://user-images.githubusercontent.com/35906533/35832675-10a9570e-0a83-11e8-8889-9b754f9c5d99.PNG)
+![nnforsear2](https://user-images.githubusercontent.com/35906533/35832680-13fcada2-0a83-11e8-8d8b-c925477d44ce.PNG)
